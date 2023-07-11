@@ -3,7 +3,7 @@
     padding: 0px;
 }
 
-.banner container{
+.banner-container{
     display:flex;
     justify-content: center;
 }
