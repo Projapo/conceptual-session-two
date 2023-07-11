@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner container{
+    display:flex;
+    justify-content: center;
+}
