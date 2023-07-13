@@ -192,3 +192,21 @@ ol{
     border-radius: 10px;
     margin-top: -70px;
 }
+
+.card{
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    box-shadow: 4px 8px 4px grey;
+}
+
+.blg{
+    width:100%;
+    margin-bottom: 20px;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
