@@ -114,5 +114,33 @@ ol{
     background-repeat: no-repeat;
     background-size: cover;
     color:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
 
+.ico{
+    width: 70px;
+    margin-bottom: 20px;
+}
+.box{
+    width: 150px;
+    height: 100px;
+    padding: 50px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    font-size: small;
+}
+
+.first-two-box{
+    display: flex;
+    gap:3px;
+    margin-top:5px;
+}
+
+.parah{
+    width:50%;
 }
