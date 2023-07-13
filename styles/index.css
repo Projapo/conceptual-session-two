@@ -2,9 +2,18 @@
     margin: 0px;
     padding: 0px;
 }
-li{
-    list-style-type: none;
-}
+
 .nav-container{
     display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: gray;
+    padding: 10px;
+}
+.menus{
+    list-style: none;
+    display: flex;
+    gap:15px;
+    font-size: 17px;
+
 }
